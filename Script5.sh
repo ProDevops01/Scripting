@@ -4,3 +4,4 @@ NAME=ProDevops01
 readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
+
